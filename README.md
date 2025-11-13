@@ -1,4 +1,4 @@
 # DIU
 This is my Git Repo
 <br>
-Author - Fazla Rabbi
+Author - Fazla Rabbi  (DIU)
